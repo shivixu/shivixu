@@ -1,19 +1,19 @@
 <h1>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivi Agarwal</h1>
 
-[![Email Badge](https://img.shields.io/badge/-b.simarjeet123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:b.simarjeet123@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simarjeet-kaur-bhatia-5857781b9)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/simarjeet_30/)
+[![Email Badge](https://img.shields.io/badge/-shiviagarwal2904@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:b.simarjeet123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shivi-agarwal29/](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHiZkZe1HunegAAAY-R1WNA5A5oCoSph7RIsqRXkhETQpCh2dahnvHzjuezrmar_37qMnGcx6Oi0fYkU6zSi_waYHSeV-oeS9D5OO0EURLKVN74sY9MrYBCSORGpyowy6A_39o=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivi-agarwal29%2F))
 
-I'm a Final year student pursuing Bachelors's in Computer Science 🎓 from Jaypee Institute of Information and Technology 🏛. I'm an enthusiastic person  who is constantly eager to learn and collaborate across technologies and domains. 💡. I enjoy learning about new technologies and deploying them to address real-world challenges. ✨. Apart from that I also love to contribute to Open Source 👨🏻‍💻. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simarjeet30&label=Profile%20views&color=0e75b6&style=flat" alt="simarjeet30" /> </p>
+I'm a Final year student pursuing Bachelors's in Biotechnology 🎓 from Jaypee Institute of Information and Technology 🏛. I'm an enthusiastic person  who is constantly eager to learn and collaborate across technologies and domains. 💡. I enjoy learning about new technologies and deploying them to address real-world challenges. ✨. Apart from that I also love to contribute to Open Source 👨🏻‍💻. 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivixu&label=Profile%20views&color=0e75b6&style=flat" alt="shivixu" /> </p>
 
 <img align="right" height="250" width="375" alt="" src="[https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif](https://media1.tenor.com/m/IpDHXOa1ytAAAAAC/a-nimals-working.gif)" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently exploring the exciting world of data science.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/simarjeet30).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivixu).
 - 💬 &nbsp; Ask me about anything [here](mailto:b.simarjeet123@gmail.com)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript😀
 
