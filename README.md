@@ -1,6 +1,6 @@
 <h1>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shivi Agarwal</h1>
 
-[![Email Badge](https://img.shields.io/badge/-shiviagarwal2904@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:b.simarjeet123@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-shiviagarwal2904@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shiviagarwal2904@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shivi-agarwal29/](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHiZkZe1HunegAAAY-R1WNA5A5oCoSph7RIsqRXkhETQpCh2dahnvHzjuezrmar_37qMnGcx6Oi0fYkU6zSi_waYHSeV-oeS9D5OO0EURLKVN74sY9MrYBCSORGpyowy6A_39o=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivi-agarwal29%2F))
 
 
@@ -14,7 +14,7 @@ I'm a Final year student pursuing Bachelors's in Biotechnology 🎓 from Jaypee 
 
 - 🛠 &nbsp; I’m currently exploring the exciting world of data science.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivixu).
-- 💬 &nbsp; Ask me about anything [here](mailto:b.simarjeet123@gmail.com)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](mailto:shiviagarwal2904@gmail.com)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript😀
 
 ### My Absolute Favorites:
@@ -81,4 +81,4 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simarjeet30&show_icons=true&locale=en" alt="simarjeet30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivixu&show_icons=true&locale=en" alt="shivixu" /></p>
