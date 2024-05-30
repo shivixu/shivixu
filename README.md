@@ -8,7 +8,7 @@ I'm a Final year student pursuing Bachelors's in Biotechnology 🎓 from Jaypee 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivixu&label=Profile%20views&color=0e75b6&style=flat" alt="shivixu" /> </p>
 
-<img align="right" height="250" width="375" alt="" src="[https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif](https://media1.tenor.com/m/IpDHXOa1ytAAAAAC/a-nimals-working.gif)" />
+<img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/2zoCrihrueMUVOZlTx" />
 
 ### Talking about Personal Stuffs:
 
