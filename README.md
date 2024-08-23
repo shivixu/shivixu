@@ -12,7 +12,7 @@ I'm a Final year student pursuing Bachelors's in Biotechnology 🎓 from Jaypee 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently exploring the exciting world of data science.
+- 🛠 &nbsp; I’m currently exploring the exciting world of data analytics.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shivixu).
 - 💬 &nbsp; Ask me about anything [here](mailto:shiviagarwal2904@gmail.com)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript😀
@@ -33,7 +33,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
   <br />
   
-|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" 
 |--|--|--|
 
 </details>
@@ -44,7 +44,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <br />
   
 
-<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">	<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">	<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">	<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">	<img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">	<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">	<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
+	<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">	<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">	<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">	<img title="CSS" alt="CSS" width="40px" 
 
 
 </details>
@@ -54,7 +54,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
   <br />
 
-<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">	<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">	<img title="ExpressJS" alt="ExpressJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">	<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
+	<img title="ExpressJS" alt="ExpressJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">	<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
 
 
 </details>
@@ -73,8 +73,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <summary><b>Tools</b></summary>
 
   <br />
-
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|
 
 </details>
